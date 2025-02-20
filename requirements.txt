@@ -1,0 +1,8 @@
+black
+flake8
+isort
+kaggle
+pip
+python-dotenv
+tensorflow == 2.18.0
+
