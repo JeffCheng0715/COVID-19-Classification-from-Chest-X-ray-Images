@@ -33,6 +33,8 @@ and Figure 3. Early stopping triggered at different epochs for each model reflec
   ![EfficientNet Training Accuracy Line Chart](reports/figures/EfficientNet_Training_Accuracy.png)
 - Testing Performance  
 Each model’s performance was evaluated on the test set using precision, recall, and F1-score metrics. The classification reports are detailed in Table 1.
+   
+  ![Test Classification Report](reports/figures/Test_Classfication_Report.png)
 
 
 ## Technologies :desktop_computer:
