@@ -43,7 +43,7 @@ Each model’s performance was evaluated on the test set using precision, recall
 ![Static Badge](https://img.shields.io/badge/tensorflow-2.18.0-green)  
 
 Other Technologies: Numpy, Pandas, Seaborn, matpolotlib
-## Future work :memo:
+## Future Works :memo:
 - Experimenting with additional deep learning architectures such as InceptionV3, MobileNet, or Vision Transformers
 (ViTs)
 - Implement data preprocessing methods such as normalization, augmentation, and contrast enhancement
